@@ -1,7 +1,3 @@
-### Hi there 👋
-
-# My name is Dany
-# I am a Python developer
    [Check my card for contacts](https://exterminateddd.github.io "Visit Card Website")<br><br>
 [<img src="https://www.codewars.com/users/exterminated1d/badges/large">](https://www.codewars.com/users/exterminated1d)
 ## 
